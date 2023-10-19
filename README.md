@@ -1,4 +1,4 @@
-# cryptoprice
+# Cryptoprice
 Price of crypto money
 This project runs with async function to call api crypto
 
